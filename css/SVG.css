@@ -1,0 +1,97 @@
+.location-icon {
+  display: inline-block;
+  width: 2.8rem;
+  height: 2.8rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("../img/SVG/location.svg");
+}
+
+.calendar {
+  display: inline-block;
+  /* width: 1rem;
+  height: 1rem; */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("../img/SVG/calendar.svg");
+}
+
+.vector {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin: -62.4rem 0rem 0rem 0rem;
+  background-repeat: no-repeat;
+  background-size: 112% 170%;
+  /* background-image: url(../Vector.svg), url(../Vector2.svg), url(../Vector3.svg),
+    url(../Vector4.svg); */
+  background-image: url(../img/svg/vector.svg);
+}
+.moon-cloud-angled-rain {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/SVG/Moon\ cloud\ angled\ rain.svg);
+}
+.moon-cloud-fast-wind {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/moon\ cloud\ fast\ wind.svg);
+}
+
+.Sun-cloud-mid-rain {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Sun\ cloud\ mid\ rain.svg);
+}
+
+.Sun-cloud-hailstone {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Sun\ cloud\ hailstone.svg);
+}
+
+.cloud-mid-rain {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Cloud\ mid\ rain.svg);
+}
+.cloud-little-rain {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Cloud\ little\ rain.svg);
+}
+
+.cloud-angled-rain {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Cloud\ angled\ rain.svg);
+}
+.cloud-3-zap {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url(../img/svg/Cloud\ 3\ zap.svg);
+}

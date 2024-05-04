@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Making a weather website to enjoy",
+  "main": "index.js",
+  "scripts": {
+    "start": "code . && live-server"
+  },
+  "author": "Alireza",
+  "license": "ISC"
+}
